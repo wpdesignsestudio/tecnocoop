@@ -1,0 +1,218 @@
+
+
+#ext_menu-0 .mbr-brand__name
+{
+    font-size: 16px;
+}
+
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section
+{
+    background: #022b51;
+}
+
+#header1-1 H1
+{
+    color: #fed136;
+    font-size: 36px;
+}
+
+#header1-1 P
+{
+    font-size: 18px;
+}
+
+#header3-2 H3
+{
+    font-size: 36px;
+    text-align: center;
+    color: #022b51;
+}
+
+#header3-2 P
+{
+    text-align: center;
+    font-size: 16px;
+}
+
+#pricing-table1-13 H3
+{
+    font-size: 24px;
+}
+
+#features1-3 P
+{
+    text-align: center;
+    font-size: 16px;
+}
+
+#features1-3 .mbr-section__col .mbr-header__text
+{
+    color: #022b51;
+    font-size: 20px;
+}
+
+#content5-4 .mbr-header .mbr-header__text
+{
+    text-align: center;
+    color: #fed136;
+    font-size: 32px;
+}
+
+#content5-4 .mbr-header .mbr-header__subtext
+{
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+}
+
+#content5-4 .mbr-article
+{
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+}
+
+#content5-4 .mbr-article P
+{
+    text-align: center;
+}
+
+#header3-5 H3
+{
+    font-size: 36px;
+    text-align: center;
+    color: #022b51;
+}
+
+#header3-5 P
+{
+    font-size: 16px;
+    text-align: center;
+}
+
+#features1-14 .mbr-section__col .mbr-header__text
+{
+    font-size: 20px;
+    color: #022b51;
+}
+
+#features1-14 P
+{
+    text-align: center;
+    font-size: 16px;
+}
+
+#social-buttons1-7 .mbr-header__text
+{
+    color: #ffffff;
+    text-align: left;
+}
+
+#form1-8 .mbr-header__text
+{
+    color: #022b51;
+    font-size: 36px;
+}
+
+#contacts1-9 STRONG
+{
+    color: #fed136;
+}
+
+#contacts1-9 P
+{
+    color: #ffffff;
+}
+
+#footer1-10 P
+{
+    text-align: center;
+    color: #ffffff;
+}
+
+#header4-17 H1
+{
+    color: #fed136;
+}
+
+#header3-18 H3
+{
+    color: #022b51;
+}
+
+#header3-18 P
+{
+    font-size: 18px;
+}
+
+#content1-19 P
+{
+    font-size: 16px;
+}
+
+#contacts1-9 STRONG
+{
+    color: #fed136;
+}
+
+#contacts1-9 P
+{
+    color: #ffffff;
+}
+
+.paragrph{
+	color: #777;
+font-size: 18px;
+letter-spacing: 1px;
+}
+#footer1-10 P
+{
+    text-align: center;
+    color: #ffffff;
+}
+
+#header4-25 H1
+{
+    color: #fed136;
+}
+
+#header3-26 H3
+{
+    color: #022b51;
+}
+
+#header3-26 P
+{
+    font-size: 18px;
+}
+
+#content1-27 P
+{
+    font-size: 16px;
+}
+
+#contacts1-29 STRONG
+{
+    color: #fed136;
+}
+
+#contacts1-29 P
+{
+    color: #ffffff;
+}
+
+#footer1-30 P
+{
+    text-align: center;
+    color: #ffffff;
+}
+
+.mbr-header_divider
+{
+    width: 60px;
+    height: 4px;
+    background: #022b51;
+    display: block;
+    margin: 20 auto;
+}
+
